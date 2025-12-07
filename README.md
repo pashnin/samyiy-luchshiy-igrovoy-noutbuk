@@ -10,7 +10,7 @@ This repository contains an article published as a single-page website.
 - `include/comparison_table.html` - Comparison table (if generated)
 
 ## Deployment
-
+ 
 This site is automatically deployed to Vercel.
 
 <!-- Deployment trigger: 2025-12-07 20:01:56 -->
